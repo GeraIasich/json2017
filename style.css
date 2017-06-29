@@ -1,0 +1,20 @@
+@CHARSET "ISO-8859-1";
+h3{
+	font-family: 'Varela Round', sans-serif;
+	background-color:#f7f9f3;
+	width:1050px;
+	margin:auto;
+}
+
+table{
+	width:1050px;
+	height:auto;
+	border-collapse: collapse;
+	margin:auto;
+	
+}
+td,th{
+	border: 1px solid #eee;
+	background-color:#ccc;
+	
+}
